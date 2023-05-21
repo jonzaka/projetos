@@ -1,0 +1,63 @@
+header{
+display: flex;
+padding-left: 10px;
+height: 80px;
+}
+.icone{
+height:80px ;
+width:80px ;
+border-radius: 40px;
+}
+.btn{
+width: 35%;
+padding-top: 25px;
+display: flex;
+text-align: center;
+justify-content: space-between;
+text-decoration: none;
+
+
+
+}
+.cabeçalho1,
+.cabeçalho2{
+color: black;
+text-decoration: none;
+font-size: 2vh;
+}
+
+.cabeçalho2:hover{
+transform: scale(1.1);
+
+}
+.titulo{
+padding-left: 30px;
+padding-top: 15px;
+width: 20%;
+}
+.primeira-pag{
+text-align: center;
+color: wheat;
+width: 100%;
+height: 100vh;    
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+
+.nome-principal{
+margin-top: 300px;
+font-size: 6vmax;
+}
+
+.texto-principal{
+width: 50%;
+padding-bottom: 200px;
+ 
+}
+
